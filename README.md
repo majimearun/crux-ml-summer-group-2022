@@ -84,3 +84,15 @@ To learn to navigate Jupyter Notebooks and their shortcuts that will a go a long
 - [Jupyter Notebooks](https://www.youtube.com/watch?v=HW29067qVWk) (skip the installation part as you've already got it installed)
 
 - [Jupyter Notebooks Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
+
+Topics to be covered in this track:
+
+1. Numeric and Data Manipulation using Numpy and Pandas
+2. Data Visualization using Plotly
+3. Intro to Machine Learning: Scikit-Learn
+4. Regression Algorithms
+5. Classification Algorithms
+6. Unsupervised Learning: Clustering
+7. Model Selection and Boosting
+8. Timeseries Analysis
+9. Intro to Neural Networks: Artificial Neural Networks (for both regression and classification)
