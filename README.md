@@ -73,9 +73,9 @@ jupyter notebook
 
 which will open up an interface in your browser, from where you can create a new notebook as shown below:
 
-![](setup\jupnb1.png)
+![](setup/jupnb1.png)
 
-![](setup\jupnb2.png)
+![](setup/jupnb2.png)
 
 Now select the notebook from the section of interest and you're all ready to start programming!!
 
