@@ -85,7 +85,17 @@ To learn to navigate Jupyter Notebooks and their shortcuts that will a go a long
 
 - [Jupyter Notebooks Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
 
-Topics to be covered in this track:
+## 2. Prerequisites
+
+The only prerequisite for this track is:
+
+1. Python: Knowing your way around python code and the basics of python programming. For those of you don't know python, but already know the basics of programming, you can refer to the following link for a quixk crash course on its syntax:
+   
+[Python Crash Course](https://www.youtube.com/watch?v=8124kv-632k&t=1s)
+
+
+
+## 3. Topics to be covered in this track:
 
 1. Numeric and Data Manipulation using Numpy and Pandas
 2. Data Visualization using Plotly
@@ -96,3 +106,17 @@ Topics to be covered in this track:
 7. Model Selection and Boosting
 8. Timeseries Analysis
 9. Intro to Neural Networks: Artificial Neural Networks (for both regression and classification)
+
+## 4. Feedback and Doubts
+
+While we do encourage you to figure things out yourself, be it tinkering with options or googling your questions, at anypoint in the track, feel free to contact anyone in the crux ml team to clarify your doubts, as it is important you learn things right the first time. We will do our best to fix and explain the issue to you as soon as possible, while also trying to help us solve similar problems you might face again.
+
+Some amazing sites which have nearly all the resources to answer any question you might have:
+
+1. [Stack Overflow](https://stackoverflow.com/)
+2. [Medium](https://medium.com/)
+3. [Machine Learning Mastery](https://machinelearningmastery.com/)
+
+At the end of the Summer Group, we will be providing a feedback form for you to fill out, to help us understand what to improve on in the next iteration of the track.
+
+Looking forward to seeing you in the group!!!
