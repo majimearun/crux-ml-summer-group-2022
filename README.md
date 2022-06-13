@@ -6,7 +6,7 @@ Hello everyone, welcome to the ML track of the cruX Summer Group 2021. Before we
 
 ### Notes:
 
-1. If you already know your way about Anaconda/Miniconda and python virtual environments, you can download the **[environment.yml](https://github.com/majimearun/crux-ml-summer-group-2022/environment.yml)** file and skip this section.
+1. If you already know your way about Anaconda/Miniconda and python virtual environments, you can download the **[environment.yml](https://github.com/majimearun/crux-ml-summer-group-2022/blob/main/environment.yml)** file and skip this section.
 
 2. While it is reccomended to use a local environment for your development, if there so is a need to use an online environment, you can alternatively use the **[google colab notebooks](https://colab.research.google.com/notebooks/intro.ipynb)** (which we will be providing for each topic) in the cloud. This allows you to learn and test your code without managing dependencies, but cannot be used for large datasets and projects.
 
