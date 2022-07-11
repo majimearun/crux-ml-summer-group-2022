@@ -26,10 +26,10 @@ Once downloaded, run the GUI installer with the default reccomended settings.
 
 ### Setting up the environment
 
-Search for Anaconda Prompt in your search bar, and once you open it up, run the following command:
+Search for Anaconda Prompt in your search bar, open it and change the directory to the one where you installed the ```environment.yml``` file , run the following command:
 
 ```bash
-conda create --name crux-ml --file environment.yml
+conda env create --name crux-ml --file environment.yml
 ```
 
 This will create a new virtual environment with all the required dependencies.
